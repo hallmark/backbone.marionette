@@ -157,7 +157,7 @@ Backbone.Marionette.ItemView.extend({
   serializeData: function(){
     return {
       "some attribute": "some value"
-    }
+    };
   }
 });
 ```
