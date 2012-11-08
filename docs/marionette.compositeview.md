@@ -165,7 +165,7 @@ The default rendering mode for a `CompositeView` assumes a
 hierarchical, recursive structure. If you configure a composite
 view without specifying an `itemView`, you'll get the same
 composite view type rendered for each item in the collection. If
-you need to override this, you can specify a `itemView` in the
+you need to override this, you can specify an `itemView` in the
 composite view's definition:
 
 ```js
