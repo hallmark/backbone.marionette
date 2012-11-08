@@ -125,7 +125,7 @@ TableView = Backbone.Marionette.CompositeView.extend({
   // ...
 
   itemViewContainer: function(){
-    return "#tbody"
+    return "tbody"
   }
 });
 ```
